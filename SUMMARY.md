@@ -1,8 +1,8 @@
-# Summary
+# 目录
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [简介](chapter1.md)
-* [基本操作](chapter2md.md)
+* [基本操作](chapter2.md)
 * [真实性鉴定](chapter3.md)
 * [纯度](chapter4.md)
 * [亲子](chapter5.md)
