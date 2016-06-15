@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [前言](README.md)
 * [简介](chapter1.md)
@@ -9,6 +9,6 @@
 * [综合应用](chapter6.md)
 * [多物种](chapter7.md)
 * [常用技巧](chapter8.md)
-* [常见问题](chapter9.md)
+* [常见问题](faq.md)
 * [附录](chapter10.md)
 
